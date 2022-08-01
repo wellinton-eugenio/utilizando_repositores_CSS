@@ -1,0 +1,27 @@
+
+body{
+    font-family: 'Inter', sans-serif;
+    line-height: 28px;
+}
+
+.title-main{
+    font-size: 24px;
+}
+.color-blue{
+    color:rgb(65, 134, 238)
+}
+.background-blue{
+    background-color: rgb(65, 134, 238);
+    color: white;
+    font-weight: 300;
+}
+.background-black{
+    background-color: black;
+    color: white;
+}
+#text-center{
+    text-align: center;
+}
+li{
+    border-bottom: 2px;
+}
