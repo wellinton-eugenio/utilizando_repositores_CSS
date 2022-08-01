@@ -13,7 +13,15 @@ body{
 .background-blue{
     background-color: rgb(65, 134, 238);
     color: white;
+    width: 90vw;
+    height: 50vh;
     font-weight: 300;
+    padding: 10px;
+    border-top: dashed 10px black;
+    border-right: double 20px #ffee04;
+    border-bottom: ridge 10px black;
+    border-left: groove 20px yellow;
+
 }
 .background-black{
     background-color: black;
